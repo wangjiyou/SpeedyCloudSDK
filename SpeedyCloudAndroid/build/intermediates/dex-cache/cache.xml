@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/guohuang/.android/build-cache/a43025bf3c77d99a4585aaf05a2cdeb607c903a7/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/Users/guohuang/Desktop/android_workspace/SpeedyCloud/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b7c8771c5deaaab4758d7a92d011315548494c37/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/guohuang/Desktop/android_sdk_mac/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/Users/guohuang/Desktop/android_workspace/SpeedyCloud/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.2.1_f247d4d7043ecb3d74dfa5dccb67cd046fbd7b16/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/guohuang/.android/build-cache/af4cadf0fdd58e85d228e91c229d30b6089b80dc/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/Users/guohuang/Desktop/android_workspace/SpeedyCloud/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e1bdab714e8ac0db080f7626c468f54f31a934bd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/guohuang/.android/build-cache/e2725e03ed3af126005d1160362f16c5a8e2bd89/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/Users/guohuang/Desktop/android_workspace/SpeedyCloud/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e73358c3236116e11bf1e44e5116de52e57c5f7e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/guohuang/Desktop/android_workspace/SpeedyCloud/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="/Users/guohuang/Desktop/android_workspace/SpeedyCloud/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_aa5492fb852b93384f03443269d863821e5ee8c1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/guohuang/.android/build-cache/ce9c3783660f7e799527d39a875dad6530f665f3/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/Users/guohuang/Desktop/android_workspace/SpeedyCloud/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8ba8b34cf434f48bf259b77be5b87819a2c4b1af/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/guohuang/.android/build-cache/35b0f278f1e764e37bc915b5d0c13765d8fda5cf/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/Users/guohuang/Desktop/android_workspace/SpeedyCloud/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a0601b7cdaa80c1e7dd113dbcfc853aeb680d112/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/guohuang/.android/build-cache/a2ecd46d8625838885b2ba1f9414d16021a0f163/output/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/Users/guohuang/Desktop/android_workspace/SpeedyCloud/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_9be34e3d28c0b2a5326f3aae9137d7c44a8c0c69/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/guohuang/.android/build-cache/af4cadf0fdd58e85d228e91c229d30b6089b80dc/output/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/Users/guohuang/Desktop/android_workspace/SpeedyCloud/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_ee6a03085f01f6de6d87e95db683f143205eba6f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/guohuang/.android/build-cache/044336168370af93abca58de4221b6f48be21137/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/Users/guohuang/Desktop/android_workspace/SpeedyCloud/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_30b44d0108aa30a0f6113320ce5b767c5649ad3e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/guohuang/.android/build-cache/2c8e98e09280c77ca321e2ae2e005a3bf699decf/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/guohuang/Desktop/android_workspace/SpeedyCloud/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d088e9c6b2e92621304160387162b48bb4dc34e3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/guohuang/Desktop/android_workspace/SpeedyCloud/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="cb409335e69a7c09d355e129b1d81600da2fa19c">
+        <dex dex="/Users/guohuang/Desktop/android_workspace/SpeedyCloud/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_ad14490f4f448ba73dd5a7479c93b694464dba20/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/guohuang/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/okhttp/2.4.0/40340c0748190fe897baf7bffbc1b282734294e5/okhttp-2.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="40340c0748190fe897baf7bffbc1b282734294e5">
+        <dex dex="/Users/guohuang/Desktop/android_workspace/SpeedyCloud/app/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-2.4.0_91f75891ef09c3d1f0e0fafd4aca5ed3929b895e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/guohuang/.android/build-cache/a2ecd46d8625838885b2ba1f9414d16021a0f163/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/Users/guohuang/Desktop/android_workspace/SpeedyCloud/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_06c47f35dfb9b2ec405cd7c04a38e9695e2cbccd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/guohuang/.android/build-cache/b61d437a9bc42f4eb2b748357fe47dc7f9abb2d2/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/Users/guohuang/Desktop/android_workspace/SpeedyCloud/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ece15cba45e94796a86231164791b388a403a77c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/guohuang/.android/build-cache/0d36ebf4bbdd826cf3f6d8a2612f45b110aa7829/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/Users/guohuang/Desktop/android_workspace/SpeedyCloud/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1a1aa376c1dd51f43ee431f127d74df268daf9a0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/guohuang/.android/build-cache/35b0f278f1e764e37bc915b5d0c13765d8fda5cf/output/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/Users/guohuang/Desktop/android_workspace/SpeedyCloud/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_b76237c652e1ff2dae8103a8db923714a3432121/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/guohuang/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.4.0/5b72bf48563ea8410e650de14aa33ff69a3e8c35/okio-1.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5b72bf48563ea8410e650de14aa33ff69a3e8c35">
+        <dex dex="/Users/guohuang/Desktop/android_workspace/SpeedyCloud/app/build/intermediates/transforms/dex/debug/folders/1000/10/okio-1.4.0_3bd78e46b3c267f732db0c22afbf63c2819b0377/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/guohuang/Desktop/android_sdk_mac/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/Users/guohuang/Desktop/android_workspace/SpeedyCloud/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.2_ee60641bf58015061362ef62f47290cf45832374/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/guohuang/.android/build-cache/e2725e03ed3af126005d1160362f16c5a8e2bd89/output/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/Users/guohuang/Desktop/android_workspace/SpeedyCloud/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_02025b4f5980171534cd77580ee64b644702ebde/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/guohuang/.android/build-cache/b61d437a9bc42f4eb2b748357fe47dc7f9abb2d2/output/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/Users/guohuang/Desktop/android_workspace/SpeedyCloud/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_7753496ac66360c8742591d0ef9275ed0cd2bd83/classes.dex" />
+    </item>
+
+</items>

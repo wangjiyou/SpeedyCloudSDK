@@ -1,0 +1,4 @@
+#Fri Apr 21 13:11:04 CST 2017
+base.0=/Users/guohuang/Desktop/android_workspace/SpeedyCloud/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_9
+renamed.0=classes.dex
+file.0=/Users/guohuang/Desktop/android_workspace/SpeedyCloud/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_9/classes.dex

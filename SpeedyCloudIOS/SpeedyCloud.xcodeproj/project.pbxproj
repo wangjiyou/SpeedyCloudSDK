@@ -1,0 +1,405 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		0DB586951EA4C40200A6CA26 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 0DB586941EA4C40200A6CA26 /* main.m */; };
+		0DB586981EA4C40200A6CA26 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 0DB586971EA4C40200A6CA26 /* AppDelegate.m */; };
+		0DB5869B1EA4C40200A6CA26 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 0DB5869A1EA4C40200A6CA26 /* ViewController.m */; };
+		0DB5869E1EA4C40200A6CA26 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0DB5869C1EA4C40200A6CA26 /* Main.storyboard */; };
+		0DB586A01EA4C40200A6CA26 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0DB5869F1EA4C40200A6CA26 /* Assets.xcassets */; };
+		0DB586A31EA4C40200A6CA26 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0DB586A11EA4C40200A6CA26 /* LaunchScreen.storyboard */; };
+		0DB586B11EA506D100A6CA26 /* SCObjectStorage.m in Sources */ = {isa = PBXBuildFile; fileRef = 0DB586B01EA506D100A6CA26 /* SCObjectStorage.m */; };
+		17800D3D256D1380AAFA5626 /* libPods-SpeedyCloud.a in Frameworks */ = {isa = PBXBuildFile; fileRef = B890A2E039B6CE4872A801D6 /* libPods-SpeedyCloud.a */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		0DB586901EA4C40200A6CA26 /* SpeedyCloud.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SpeedyCloud.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		0DB586941EA4C40200A6CA26 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		0DB586961EA4C40200A6CA26 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
+		0DB586971EA4C40200A6CA26 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
+		0DB586991EA4C40200A6CA26 /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
+		0DB5869A1EA4C40200A6CA26 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
+		0DB5869D1EA4C40200A6CA26 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		0DB5869F1EA4C40200A6CA26 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		0DB586A21EA4C40200A6CA26 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		0DB586A41EA4C40200A6CA26 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		0DB586AF1EA4CD2A00A6CA26 /* SCObjectStorage.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = SCObjectStorage.h; path = Network/SCObjectStorage.h; sourceTree = "<group>"; };
+		0DB586B01EA506D100A6CA26 /* SCObjectStorage.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = SCObjectStorage.m; path = Network/SCObjectStorage.m; sourceTree = "<group>"; };
+		33D193ADEFE25CE609DBF398 /* Pods-SpeedyCloud.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-SpeedyCloud.release.xcconfig"; path = "Pods/Target Support Files/Pods-SpeedyCloud/Pods-SpeedyCloud.release.xcconfig"; sourceTree = "<group>"; };
+		7068790DA89A44755227B74A /* Pods-SpeedyCloud.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-SpeedyCloud.debug.xcconfig"; path = "Pods/Target Support Files/Pods-SpeedyCloud/Pods-SpeedyCloud.debug.xcconfig"; sourceTree = "<group>"; };
+		B890A2E039B6CE4872A801D6 /* libPods-SpeedyCloud.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-SpeedyCloud.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		0DB5868D1EA4C40200A6CA26 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				17800D3D256D1380AAFA5626 /* libPods-SpeedyCloud.a in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		0DB586871EA4C40200A6CA26 = {
+			isa = PBXGroup;
+			children = (
+				0DB586921EA4C40200A6CA26 /* SpeedyCloud */,
+				0DB586911EA4C40200A6CA26 /* Products */,
+				EB35B7AEFD1F8B881CA8C250 /* Pods */,
+				19B4D10092D034AD1A147E83 /* Frameworks */,
+			);
+			sourceTree = "<group>";
+		};
+		0DB586911EA4C40200A6CA26 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				0DB586901EA4C40200A6CA26 /* SpeedyCloud.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		0DB586921EA4C40200A6CA26 /* SpeedyCloud */ = {
+			isa = PBXGroup;
+			children = (
+				0DB586961EA4C40200A6CA26 /* AppDelegate.h */,
+				0DB586971EA4C40200A6CA26 /* AppDelegate.m */,
+				0DB586991EA4C40200A6CA26 /* ViewController.h */,
+				0DB5869A1EA4C40200A6CA26 /* ViewController.m */,
+				0DB5869C1EA4C40200A6CA26 /* Main.storyboard */,
+				0DB5869F1EA4C40200A6CA26 /* Assets.xcassets */,
+				0DB586A11EA4C40200A6CA26 /* LaunchScreen.storyboard */,
+				0DB586A41EA4C40200A6CA26 /* Info.plist */,
+				0DB586931EA4C40200A6CA26 /* Supporting Files */,
+				0DB586AF1EA4CD2A00A6CA26 /* SCObjectStorage.h */,
+				0DB586B01EA506D100A6CA26 /* SCObjectStorage.m */,
+			);
+			path = SpeedyCloud;
+			sourceTree = "<group>";
+		};
+		0DB586931EA4C40200A6CA26 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				0DB586941EA4C40200A6CA26 /* main.m */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		19B4D10092D034AD1A147E83 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				B890A2E039B6CE4872A801D6 /* libPods-SpeedyCloud.a */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		EB35B7AEFD1F8B881CA8C250 /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				7068790DA89A44755227B74A /* Pods-SpeedyCloud.debug.xcconfig */,
+				33D193ADEFE25CE609DBF398 /* Pods-SpeedyCloud.release.xcconfig */,
+			);
+			name = Pods;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		0DB5868F1EA4C40200A6CA26 /* SpeedyCloud */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 0DB586A71EA4C40200A6CA26 /* Build configuration list for PBXNativeTarget "SpeedyCloud" */;
+			buildPhases = (
+				DF3CBA7555D70D651956E01F /* [CP] Check Pods Manifest.lock */,
+				0DB5868C1EA4C40200A6CA26 /* Sources */,
+				0DB5868D1EA4C40200A6CA26 /* Frameworks */,
+				0DB5868E1EA4C40200A6CA26 /* Resources */,
+				2753075442265B0B87FC81A7 /* [CP] Embed Pods Frameworks */,
+				327505DEA427C9EBF2DD2482 /* [CP] Copy Pods Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = SpeedyCloud;
+			productName = SpeedyCloud;
+			productReference = 0DB586901EA4C40200A6CA26 /* SpeedyCloud.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		0DB586881EA4C40200A6CA26 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0830;
+				ORGANIZATIONNAME = SpeedyCloud;
+				TargetAttributes = {
+					0DB5868F1EA4C40200A6CA26 = {
+						CreatedOnToolsVersion = 8.3.1;
+						DevelopmentTeam = 2JRMNW6CRB;
+						ProvisioningStyle = Automatic;
+					};
+				};
+			};
+			buildConfigurationList = 0DB5868B1EA4C40200A6CA26 /* Build configuration list for PBXProject "SpeedyCloud" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 0DB586871EA4C40200A6CA26;
+			productRefGroup = 0DB586911EA4C40200A6CA26 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				0DB5868F1EA4C40200A6CA26 /* SpeedyCloud */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		0DB5868E1EA4C40200A6CA26 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				0DB586A31EA4C40200A6CA26 /* LaunchScreen.storyboard in Resources */,
+				0DB586A01EA4C40200A6CA26 /* Assets.xcassets in Resources */,
+				0DB5869E1EA4C40200A6CA26 /* Main.storyboard in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		2753075442265B0B87FC81A7 /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-SpeedyCloud/Pods-SpeedyCloud-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		327505DEA427C9EBF2DD2482 /* [CP] Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Copy Pods Resources";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-SpeedyCloud/Pods-SpeedyCloud-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		DF3CBA7555D70D651956E01F /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_ROOT}/../Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		0DB5868C1EA4C40200A6CA26 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				0DB5869B1EA4C40200A6CA26 /* ViewController.m in Sources */,
+				0DB586B11EA506D100A6CA26 /* SCObjectStorage.m in Sources */,
+				0DB586981EA4C40200A6CA26 /* AppDelegate.m in Sources */,
+				0DB586951EA4C40200A6CA26 /* main.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		0DB5869C1EA4C40200A6CA26 /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				0DB5869D1EA4C40200A6CA26 /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		0DB586A11EA4C40200A6CA26 /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				0DB586A21EA4C40200A6CA26 /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		0DB586A51EA4C40200A6CA26 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.3;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		0DB586A61EA4C40200A6CA26 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.3;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		0DB586A81EA4C40200A6CA26 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 7068790DA89A44755227B74A /* Pods-SpeedyCloud.debug.xcconfig */;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 2JRMNW6CRB;
+				INFOPLIST_FILE = SpeedyCloud/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = SpeedyCloud.SpeedyCloud;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		0DB586A91EA4C40200A6CA26 /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 33D193ADEFE25CE609DBF398 /* Pods-SpeedyCloud.release.xcconfig */;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 2JRMNW6CRB;
+				INFOPLIST_FILE = SpeedyCloud/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = SpeedyCloud.SpeedyCloud;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		0DB5868B1EA4C40200A6CA26 /* Build configuration list for PBXProject "SpeedyCloud" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				0DB586A51EA4C40200A6CA26 /* Debug */,
+				0DB586A61EA4C40200A6CA26 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		0DB586A71EA4C40200A6CA26 /* Build configuration list for PBXNativeTarget "SpeedyCloud" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				0DB586A81EA4C40200A6CA26 /* Debug */,
+				0DB586A91EA4C40200A6CA26 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 0DB586881EA4C40200A6CA26 /* Project object */;
+}
